@@ -1,17 +1,7 @@
 -- ===============================================================================
 -- 🚀 SQL MASTERY ROADMAP SESSION: ADVANCED ANALYTICS & WINDOW FUNCTIONS
--- ===============================================================================
--- Database Engine: Generic ANSI SQL / PostgreSQL Compatible
 -- Topics Covered: Ranking Functions, Value/Positioning Functions, Window Framing, 
---                 CTEs, Correlated Subqueries, DataLemur Interview Benchmarks
--- ===============================================================================
-
-
--- ===============================================================================
--- 🎯 SECTION 1: DATALEMUR INTERVIEW QUESTIONS
--- ===============================================================================
-
----------------------------------------------------------------------------------
+--CTEs, Correlated Subqueries, DataLemur Interview Benchmarks
 -- 1. User's Third Transaction (DataLemur - Amazon Medium)
 -- Task: Extract the exact 3rd transaction for every user chronologically.
 -- Technique: ROW_NUMBER() over CTE pattern
